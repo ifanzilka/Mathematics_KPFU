@@ -49,3 +49,23 @@
 * [2.2 Задачи экзамена
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)
 * [2.2 Программа экзамена](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)
+#### Коллоквиум 3 семестр (Насыров С.Р.)
+* [3.1 Задачи коллоквиума
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/3.1.zadachi_COLL_3.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/3.1.zadachi_COLL_3.pdf)
+
+* [3.1.Программа коллоквиума
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/3.1.PRG_3.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/3.1.PRG_3.pdf)
+#### Экзамен 3 семестр (Насыров С.Р.)
+* [3.2 Задачи к экзамену](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/3.2.zadachi_EXAM.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/3.2.zadachi_EXAM.pdf)
+* [3.2 Программа экзамена
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/3.2.PRGR_EX_2004.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/3.2.PRGR_EX_2004.pdf)
+#### Коллоквиум 2 семестр (Насыров С.Р.)
+* [2.1 Задачи коллоквиума
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.1.zadachi_coll_2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.1.zadachi_coll_2.pdf)
+* [2.1 Программа коллоквиума
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.1%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.1%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.pdf)
+#### Экзамен 2 семестр (Насыров С.Р.)
+* [2.2 Задачи экзамена
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)
+* [2.2 Программа экзамена](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)
+
