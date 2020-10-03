@@ -4,6 +4,7 @@
 * [Демидович Б.П.](#демидович-бп)
 * [Фихтенгольц](#фихтенгольц)
 * [Зорич В.А](#зорич-ва)
+* [Остальные](#)
 ### Насыров С.Р.
 
 * [1.1.Введение в мат анализ(Пределы и непрерывность)
@@ -77,3 +78,8 @@
 ### Зорич В.А.
  * [Математический анализ. Часть I_Зорич В.А_2012](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20I_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-720%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20I_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-720%D1%81.pdf)
   * [Математический анализ. Часть II_Зорич В.А_2012](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20II_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-818%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20II_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-818%D1%81.pdf)
+
+### Еще книги...
+
+  
+  
