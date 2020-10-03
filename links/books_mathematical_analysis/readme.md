@@ -2,7 +2,7 @@
 
 * [Насыров С.Р.](#насыров-ср)
 * [Демидович Б.П.](#демидович-бп)
-* [Фихтенгольц](#)
+* [Фихтенгольц](#фихтенгольц)
 ### Насыров С.Р.
 
 * [1.1.Введение в мат анализ(Пределы и непрерывность)
@@ -70,3 +70,5 @@
 * [Китайский антидемидович часть 4](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)
 * [Китайский антидемидович часть 6](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)
 ### Фихтенгольц
+* [Фихтенгольц.Математический анализ Том 1](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86.%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%201_compressed.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86.%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%201_compressed.pdf)
+* [Фихтенгольц.Математический анализ Том 2](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%202_compressed.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%202_compressed.pdf)
