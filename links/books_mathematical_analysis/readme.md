@@ -38,6 +38,8 @@
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)
 #### Экзамен 1 семестр (Насыров С.Р.)
 * [1.2 Задачи к экзамену](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.2.zadachi_k_EXAM_1.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.2.zadachi_k_EXAM_1.pdf)
+* [1.2 Программа экзамена
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.2.%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%AD%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.2.%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%AD%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0.pdf)
 #### Коллоквиум 2 семестр (Насыров С.Р.)
 * [2.1 Задачи коллоквиума
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.1.zadachi_coll_2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.1.zadachi_coll_2.pdf)
