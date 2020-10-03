@@ -1,6 +1,7 @@
 ### Index
 
 * [Насыров С.Р.](#насыров-ср)
+* [Демидович Б.П.](#)
 #
 #
 #
@@ -68,4 +69,6 @@
 * [4.2 Задачи экзамена
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.2.zadachi_k_EXAM_4.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.2.zadachi_k_EXAM_4.pdf)
 * [4.2 Программа экзамена](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.1.EXAM_4_2019.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.1.EXAM_4_2019.pdf)
+
+### Демидович Б.П.
 
