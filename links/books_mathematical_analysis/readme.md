@@ -35,4 +35,4 @@
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf)
 
 * [1.1.Программа коллоквиума
-](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)
