@@ -2,19 +2,7 @@
 
 * [Насыров С.Р.](#насыров-ср)
 * [Демидович Б.П.](#демидович-бп)
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
+* [Фихтенгольц](#)
 ### Насыров С.Р.
 
 * [1.1.Введение в мат анализ(Пределы и непрерывность)
@@ -81,3 +69,4 @@
 * [Китайский антидемидович часть 3](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_3_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_3_chast.pdf)
 * [Китайский антидемидович часть 4](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)
 * [Китайский антидемидович часть 6](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)
+### Фихтенгольц
