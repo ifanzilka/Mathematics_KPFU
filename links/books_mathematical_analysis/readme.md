@@ -48,3 +48,4 @@
 #### Экзамен 2 семестр (Насыров С.Р.)
 * [2.2 Задачи экзамена
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2voprosy_EXAM2.pdf)
+* [2.2 Программа экзамена](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/2.2.PRG_EX2.pdf)
