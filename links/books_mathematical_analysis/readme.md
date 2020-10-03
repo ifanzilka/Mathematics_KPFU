@@ -31,4 +31,6 @@
 * [4.2.Ряды и интеграл Фурье
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.2.%D0%A0%D1%8F%D0%B4%D1%8B%20%D0%A4%D1%83%D1%80%D1%8C%D0%B5.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.2.%D0%A0%D1%8F%D0%B4%D1%8B%20%D0%A4%D1%83%D1%80%D1%8C%D0%B5.pdf)
 #### Коллоквиум 1 семестр
+* [1.1 Задачи коллоквиума
+](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf)
 
