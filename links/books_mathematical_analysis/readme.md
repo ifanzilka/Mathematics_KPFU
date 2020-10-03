@@ -36,3 +36,5 @@
 
 * [1.1.Программа коллоквиума
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.PROGRAMMA_KOLLOKVIUMA_1-MA.pdf)
+#### Экзамен 1 семестр (Насыров С.Р.)
+* [1.2 Задачи к экзамену](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.2.zadachi_k_EXAM_1.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.2.zadachi_k_EXAM_1.pdf)
