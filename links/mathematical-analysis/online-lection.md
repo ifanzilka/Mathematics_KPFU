@@ -5,3 +5,4 @@
 Введение в математический анализ (Stepik.org)](https://stepik.org/course/95/syllabus)
 * [Математический анализ (часть 1) (Stepik.org)](https://stepik.org/course/716)
 * [Математический анализ (часть 2) (Stepik.org)](https://stepik.org/course/711)
+* [Высшая математика. Математический анализ(openedu.ru)](https://openedu.ru/course/mipt/MATAN/)
