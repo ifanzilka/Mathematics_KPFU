@@ -2,19 +2,9 @@
 
 * [Насыров С.Р.](#насыров-ср)
 * [Демидович Б.П.](#демидович-бп)
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
+* [Фихтенгольц](#фихтенгольц)
+* [Зорич В.А](#зорич-ва)
+* [Остальные](#еще-книги)
 ### Насыров С.Р.
 
 * [1.1.Введение в мат анализ(Пределы и непрерывность)
@@ -31,6 +21,7 @@
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.1.%D0%9D%D0%B5%D1%81%D0%BE%D0%B1%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B%20.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.1.%D0%9D%D0%B5%D1%81%D0%BE%D0%B1%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B%20.pdf)
 * [4.2.Ряды и интеграл Фурье
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.2.%D0%A0%D1%8F%D0%B4%D1%8B%20%D0%A4%D1%83%D1%80%D1%8C%D0%B5.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.2.%D0%A0%D1%8F%D0%B4%D1%8B%20%D0%A4%D1%83%D1%80%D1%8C%D0%B5.pdf)
+* [Методичка по пределам, производным, графикам](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/%D1%82%D0%BE%D0%BF%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%20%D0%BC%D0%B0%D1%82%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8B%20%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/%D1%82%D0%BE%D0%BF%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%20%D0%BC%D0%B0%D1%82%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8B%20%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8.pdf)
 #### Коллоквиум 1 семестр (Насыров С.Р.)
 * [1.1 Задачи коллоквиума
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/1.1.ZADAChI_KOLLOKVIUMA_1-MA.pdf)
@@ -70,6 +61,25 @@
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.2.zadachi_k_EXAM_4.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.2.zadachi_k_EXAM_4.pdf)
 * [4.2 Программа экзамена](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/4.1.EXAM_4_2019.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/4.1.EXAM_4_2019.pdf)
 
+
+
 ### Демидович Б.П.
 * [Сборник задач и упражнений Демидович Б.П.
 ](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/20-%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%20%D0%B8%20%D1%83%D0%BF%D1%80.%20%D0%BF%D0%BE%20%D0%BC%D0%B0%D1%82.%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83_%D0%94%D0%B5%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_1998%20-624%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/20-%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%20%D0%B8%20%D1%83%D0%BF%D1%80.%20%D0%BF%D0%BE%20%D0%BC%D0%B0%D1%82.%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83_%D0%94%D0%B5%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_1998%20-624%D1%81.pdf)
+* [Китайский антидемидович часть 1](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_1_chast.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_1_chast.pdf)
+* [Китайский антидемидович часть 2](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_2_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_2_chast.pdf)
+* [Китайский антидемидович часть 3](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_3_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_3_chast.pdf)
+* [Китайский антидемидович часть 4](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_4_chast.pdf)
+* [Китайский антидемидович часть 6](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/demidovich/Kitayskiy_Antidemidovich_-_6_chast.pdf)
+### Фихтенгольц
+* [Фихтенгольц.Математический анализ Том 1](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86.%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%201_compressed.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86.%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%201_compressed.pdf)
+* [Фихтенгольц.Математический анализ Том 2](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%202_compressed.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%A4%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%86%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%A2%D0%BE%D0%BC%202_compressed.pdf)
+
+### Зорич В.А.
+ * [Математический анализ. Часть I_Зорич В.А_2012](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20I_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-720%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20I_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-720%D1%81.pdf)
+  * [Математический анализ. Часть II_Зорич В.А_2012](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20II_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-818%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20II_%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%92.%D0%90_2012%20-818%D1%81.pdf)
+
+### Еще книги...
+* [Кудрявцев Л.Д. Математический анализ [том 1]](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2%20%D0%9B.%D0%94.%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%5B%D1%82%D0%BE%D0%BC%201%5D.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2%20%D0%9B.%D0%94.%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%5B%D1%82%D0%BE%D0%BC%201%5D.pdf)
+* [Основы математического анализа_У. Рудин](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/books(other)/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%A3.%20%D0%A0%D1%83%D0%B4%D0%B8%D0%BD%2C%20%D0%BF%D0%B5%D1%80%20%D1%81%20%D0%B0%D0%BD%D0%B3%D0%BB_1976%202-%D0%B5%20%D0%B8%D0%B7%D0%B4%20320%D1%81.pdf)-> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/books_mathematical_analysis/books(other)/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%A3.%20%D0%A0%D1%83%D0%B4%D0%B8%D0%BD%2C%20%D0%BF%D0%B5%D1%80%20%D1%81%20%D0%B0%D0%BD%D0%B3%D0%BB_1976%202-%D0%B5%20%D0%B8%D0%B7%D0%B4%20320%D1%81.pdf)
+  
