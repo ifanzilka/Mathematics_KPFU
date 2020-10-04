@@ -1,4 +1,6 @@
-### Index
+## [Назад в поиск по предмету](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/mathematical-analysis.md)
+
+### Авторы
 
 * [Насыров С.Р.](#насыров-ср)
 * [Демидович Б.П.](#демидович-бп)
