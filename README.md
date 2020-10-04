@@ -1,6 +1,6 @@
 # Mathematics_KPFU
 
-### Index
+### Предметы
 + [Математический анализ](/links/mathematical-analysis.md)
 * [Алгебра](#Алгебра) 
 #
