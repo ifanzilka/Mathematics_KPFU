@@ -51,3 +51,14 @@
 
 ![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/binomial.png)
     
+##  Неопределенный интеграл
+
+Синтаксис :
+
+    integrate (Function(x))
+#### Пример 1 :   
+    integrate x^2-2x+3
+Результат :
+
+
+    
