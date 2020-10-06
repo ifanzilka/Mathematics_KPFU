@@ -3,6 +3,8 @@
 ### Подчсчет в математическом пакете Wolfram Alpha
 #### [Wolfram Alpha](https://www.wolframalpha.com/) ![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/wolfram.png)
 
+[Документация языка Wolfram Language](https://reference.wolfram.com/language/)
+
 * [Пределы](#пределы)
 * [Суммирование](#суммирование)
 * [Биномиальный коэффициент](#биномиальный-коэффициент)
