@@ -5,6 +5,12 @@
 ### Предметы
 + [Математический анализ](/links/mathematical-analysis.md)
 * [Алгебра](#Алгебра) 
+  
+  
+  
+  
+  
+ * [Различные онлайн ресурсы](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/online_resurses)
 #
 #
 #
