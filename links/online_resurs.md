@@ -4,3 +4,4 @@
 * [Coursera](https://www.coursera.org/) - Онлайн курсы
 * [openedu.ru](https://openedu.ru/)
 * [Лекторий](https://mipt.lectoriy.ru/)
+* [CISCO](https://www.netacad.com/ru)
