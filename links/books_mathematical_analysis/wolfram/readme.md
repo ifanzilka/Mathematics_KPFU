@@ -5,6 +5,8 @@
 
 [Документация языка Wolfram Language](https://reference.wolfram.com/language/)
 
+[Книга про Wolfram Alpha (На английском)](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
+
 * [Пределы](#пределы)
 * [Суммирование](#суммирование)
 * [Биномиальный коэффициент](#биномиальный-коэффициент)
