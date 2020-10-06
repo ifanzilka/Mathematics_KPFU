@@ -6,6 +6,7 @@
 * [Пределы](#пределы)
 * [Суммирование](#суммирование)
 * [Биномиальный коэффициент](#биномиальный-коэффициент)
+* [Неопределенный интеграл]()
 
 ## Пределы 
   Синтаксис:
@@ -60,5 +61,6 @@
     integrate x^2-2x+3
 Результат :
 
+![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/integrate.png)
 
     
