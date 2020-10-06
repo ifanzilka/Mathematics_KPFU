@@ -10,7 +10,7 @@
   
   
   
- * [Различные онлайн ресурсы](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/online_resurses)
+ * [Различные онлайн ресурсы](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/online_resurs.md)
 #
 #
 #
