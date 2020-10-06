@@ -15,5 +15,4 @@
     
     limit sin(x)/x, x->0
 Результат :    
-    
-    
+![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/image.png)
