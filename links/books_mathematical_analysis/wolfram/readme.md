@@ -42,3 +42,12 @@
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_204616.png "Сумма" )
 
 ##  Биномиальный коэффициент
+Число сочетаний из n по k 
+
+    binomial(n,k)
+#
+    binomial(10,2)
+Результат :
+
+![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/binomial.png)
+    
