@@ -20,7 +20,8 @@
 #### Пример 2 :
     
     limit 3(x)^2/x, x->inf
-Результат :    
+Результат :  
+
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_195710.png)
 ##  Суммирование
 Синтаксис :
@@ -29,6 +30,7 @@
 #### Пример 1 :   
     sum x^k/k!, k=0 to +oo
 Результат :
+
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_203634.png)    
 #### Пример 2 :
 Также можно суммировать вот так :
