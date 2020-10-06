@@ -28,4 +28,11 @@
     sum (function(k)) , k = начало суммирования to конец суммирования
 #### Пример 1 :   
     sum x^k/k!, k=0 to +oo
+Результат :
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_203634.png)    
+#### Пример 2 :
+Также можно суммировать вот так :
+
+    sum (3/4)^j, j=0..infinity
+Результат:
+![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_204616.png)
