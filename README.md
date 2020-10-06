@@ -1,5 +1,5 @@
 # Mathematics_KPFU
-![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/img/kpfu.jpg)
+![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/img/kpfu_photo-resizer.ru.jpg)
 
 Информация, представленная ниже, будет полезна студентам, обучающимся на технических специальностях, а так же людям, интересующимся математикой и желающим более подробно разобраться в этом предмете
 
