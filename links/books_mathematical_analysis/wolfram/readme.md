@@ -7,6 +7,7 @@
 * [Суммирование](#суммирование)
 * [Биномиальный коэффициент](#биномиальный-коэффициент)
 * [Неопределенный интеграл](#неопределенный-интеграл)
+* [Определенный интеграл](#определенный-интеграл)
 
 ## Пределы 
   Синтаксис:
@@ -72,5 +73,5 @@
     integrate -3x^2+2x+9, x=-1..2
 Результат :
 
-![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/integrate2.png)
+![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/integrate3.png)
 
