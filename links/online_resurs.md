@@ -11,4 +11,4 @@
 * [Proglib](https://proglib.io/)
 * [Лекториум](https://www.lektorium.tv/)
 * [EDX](https://www.edx.org/)
-* [Универсариум] (https://universarium.org/)
+* [Универсариум](https://universarium.org/)
