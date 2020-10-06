@@ -1,6 +1,8 @@
 ## [Назад в поиск по предмету](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/mathematical-analysis.md)
 
 ### Подчсчет в математическом пакете Wolfram Alpha
+#### [Wolfram Alpha](https://www.wolframalpha.com/)
+
 * [Пределы](#пределы)
 
 
