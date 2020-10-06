@@ -63,4 +63,14 @@
 
 ![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/integrate.png)
 
-    
+## Определенный интеграл
+
+Синтаксис :
+
+    integrate (Function(x)) x= от чего .. до чего
+#### Пример 1 :   
+    integrate -3x^2+2x+9, x=-1..2
+Результат :
+
+![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/integrate2.png)
+
