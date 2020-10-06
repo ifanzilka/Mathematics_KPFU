@@ -21,4 +21,4 @@
     
     limit 3(x)^2/x, x->inf
 Результат :    
-![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/image.png)
+![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_195710.png)
