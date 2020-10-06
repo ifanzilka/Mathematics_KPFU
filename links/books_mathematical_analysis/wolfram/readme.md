@@ -23,3 +23,9 @@
 Результат :    
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_195710.png)
 ##  Суммирование
+Синтаксис :
+    
+    sum (function(k)) , k = начало суммирования to конец суммирования
+#### Пример 1 :   
+    sum x^k/k!, k=0 to +oo
+    
