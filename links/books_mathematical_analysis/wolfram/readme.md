@@ -39,4 +39,5 @@
 Результат:
 
 ![Альтернативный текст](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_204616.png)
-формула [](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_211628.png)
+
+формула ![](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/books_mathematical_analysis/wolfram/img/Screenshot_20201006_211628.png)
