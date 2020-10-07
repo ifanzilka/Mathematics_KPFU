@@ -1,1 +1,6 @@
 ## [Назад в поиск по предмету](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra.md)
+* [Линейная Алгебра. Алексей Савватеев, Александр Тонис.](https://www.youtube.com/playlist?list=PLC48_7OD-YGJ5-ldwt8ljXaYXhrOFAWRz)
+* [Кожевников П.А. Линейная алгебра.](https://www.youtube.com/playlist?list=PLthfp5exSWEqSRXkZgMMzTSXL_WwMV9wK)
+* [Курс лекций по алгебре и геометрии](https://mipt.ru/online/hi-Math/kurs-lektsiy-po-algebre-i-geometrii.php)
+* [Лекции и семинары по аналитической геометрии и линейной алгебре](https://mipt.ru/online/hi-Math/analit/linal-chubarov.php)
+* [Если вам мало](https://mipt.ru/online/hi-Math/analit/)
