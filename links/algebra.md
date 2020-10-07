@@ -3,5 +3,5 @@
 ### Поиск по предмету
 + [Книги]()
 + [Лекции в письменном виде]()
-+ [Онлайн курсы]()
++ [Онлайн курсы](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/online_curses.md)
 + [Онлайн лекции]()
