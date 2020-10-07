@@ -5,3 +5,4 @@
 * [Лекции и семинары по аналитической геометрии и линейной алгебре](https://mipt.ru/online/hi-Math/analit/linal-chubarov.php)
 * [Если вам мало](https://mipt.ru/online/hi-Math/analit/)
 * [Теория групп](https://mipt.ru/online/hi-Math/teoriya-grupp-2-kurs-lektor-bogdanov-i-i.php)
+* [Лекции Ершова А.В. по курсу "Гомологическая алгебра и теория категорий"](https://mipt.ru/online/hi-Math/lektsii-ershova-a-v-po-kursu-gomologicheskaya-algebra-i-teoriya-kategoriy.php)
