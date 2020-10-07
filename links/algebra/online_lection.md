@@ -4,3 +4,4 @@
 * [Курс лекций по алгебре и геометрии](https://mipt.ru/online/hi-Math/kurs-lektsiy-po-algebre-i-geometrii.php)
 * [Лекции и семинары по аналитической геометрии и линейной алгебре](https://mipt.ru/online/hi-Math/analit/linal-chubarov.php)
 * [Если вам мало](https://mipt.ru/online/hi-Math/analit/)
+* [Теория групп](https://mipt.ru/online/hi-Math/teoriya-grupp-2-kurs-lektor-bogdanov-i-i.php)
