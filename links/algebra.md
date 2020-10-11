@@ -2,6 +2,6 @@
 
 ### Поиск по предмету
 + [Книги]()
-+ [Лекции в письменном виде]()
++ [Лекции в письменном виде](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/lection_written.md)
 + [Онлайн курсы](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/online_curses.md)
 + [Онлайн лекции](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/online_lection.md)
