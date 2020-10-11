@@ -2,7 +2,7 @@
 
 ### Книги 
 * [Кострыкин сборник задач по алгебре](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/books_algebra/kostriki_sbornik_zadach_po_algebre.pdf) -> [Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/algebra/books_algebra/kostriki_sbornik_zadach_po_algebre.pdf)
-* [Демидович Б.П.](#демидович-бп)
-* [Фихтенгольц](#фихтенгольц)
-* [Зорич В.А](#зорич-ва)
-* [Остальные](#еще-книги)
+* [Винберг Э.Б. Курс Алгебры](#https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/books_algebra/%D0%92%D0%B8%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%20%D0%AD.%D0%91.%20-%20%D0%9A%D1%83%D1%80%D1%81%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B.pdf) ->[Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/algebra/books_algebra/%D0%92%D0%B8%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%20%D0%AD.%D0%91.%20-%20%D0%9A%D1%83%D1%80%D1%81%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B.pdf)
+* [П.Н.Иваньшин Алгебра.Курс лекций](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/books_algebra/%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%20%D0%9A%D1%83%D1%80%D1%81%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B9.pdf)->[Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/algebra/books_algebra/%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%20%D0%9A%D1%83%D1%80%D1%81%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B9.pdf)
+* [Линейная_алгебра_I.](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/books_algebra/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_I.pdf)->[Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/algebra/books_algebra/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_I.pdf)
+* [Линейная_алгебра_II.](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra/books_algebra/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%20-%20II.pdf)->[Download (PDF)](https://github.com/ifanzilka/Mathematics_KPFU/raw/master/links/algebra/books_algebra/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%20-%20II.pdf)
