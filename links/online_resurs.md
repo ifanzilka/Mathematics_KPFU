@@ -13,3 +13,4 @@
 * [Лекториум](https://www.lektorium.tv/)
 * [EDX](https://www.edx.org/)
 * [Универсариум](https://universarium.org/)
+* [Leetcode](https://leetcode.com/)
