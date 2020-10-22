@@ -5,7 +5,7 @@
 ### Предметы
 + [Математический анализ](/links/mathematical-analysis.md)
 + [Алгебра](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/algebra.md) 
-+ [Аналитическая геометрия]()  
++ [Аналитическая геометрия](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/analiticks_geometry/analiticks_geometry.md)  
   
   
   
