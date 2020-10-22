@@ -1,1 +1,3 @@
 ## [Назад](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/analiticks_geometry/analiticks_geometry.md)
+#
+* [Аналитическая геометрия Часть 1.(Аналитическая геометрия плоскости) В.В.Шурыгнин](https://github.com/ifanzilka/Mathematics_KPFU/blob/master/links/analiticks_geometry/books_analiticks_geometry/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%201%20%D1%87%D0%B0%D1%81%D1%82%D1%8C%20.pdf)
